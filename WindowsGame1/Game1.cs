@@ -25,6 +25,14 @@ namespace WindowsGame1
         int velocidadCamino = 3;
         Texture2D auto;
         Vector2 posAuto = new Vector2(410, 400);
+        PistasGroup pistas;
+
+        int velocidad = 5;
+
+        /*pista
+         * 
+         * */
+
 
         public Game1()
         {
@@ -59,6 +67,8 @@ namespace WindowsGame1
             auto = Content.Load<Texture2D>("camaro");
             posCamino[0] = new Vector2(0, 0);
             posCamino[1] = new Vector2(0, -600);
+            pistas = new PistasGroup(Content.Load<Texture2D>("pista"));
+
            
         }
 
@@ -78,6 +88,7 @@ namespace WindowsGame1
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+            pistas.actualizar();
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
@@ -89,11 +100,11 @@ namespace WindowsGame1
             if (posCamino[1].Y == 600)
                 posCamino[1].Y = -600;
             if (Keyboard.GetState().IsKeyDown(Keys.Left))
-                if(posAuto.X == 410)
-                    posAuto.X -= 100;
+
+                posAuto.X -= velocidad;
             if (Keyboard.GetState().IsKeyDown(Keys.Right))
-                if (posAuto.X == 310)
-                    posAuto.X += 100;
+
+                posAuto.X += velocidad;
             velocidadCamino += gameTime.ElapsedGameTime.Seconds;
             base.Update(gameTime);
         }
@@ -110,6 +121,7 @@ namespace WindowsGame1
             spriteBatch.Draw(camino[1], posCamino[1], Color.White);
             spriteBatch.Draw(auto, posAuto, Color.White);
             spriteBatch.End();
+            pistas.dibujar(spriteBatch);
 
             base.Draw(gameTime);
         }

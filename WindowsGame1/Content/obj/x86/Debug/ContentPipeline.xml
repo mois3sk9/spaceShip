@@ -55,6 +55,15 @@
       <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondou.xnb</Output>
       <Time>2014-07-10T18:00:57.79601-04:00</Time>
     </Item>
+    <Item>
+      <Source>pista.png</Source>
+      <Name>pista</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pista.xnb</Output>
+      <Time>2014-07-10T18:53:22.0838529-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
