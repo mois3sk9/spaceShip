@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsGame1">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\moises\Desktop\WindowsGame1\WindowsGame1.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\moises\Desktop\WindowsGame1\WindowsGame1.suo">
+</Property><Property Name="Date" Value="jueves, 10 de julio de 2014">
+</Property><Property Name="Time" Value="1:54">
+</Property><Property Name="Solution" Value="WindowsGame1">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\moises\Desktop\WindowsGame1\WindowsGame1.sln">
+</Property><Property Name="Date" Value="jueves, 10 de julio de 2014">
+</Property><Property Name="Time" Value="1:55:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsGame1.sln" Description="La copia C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsGame1.suo" Description="La copia C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\WindowsGame1.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj.user" Description="La copia de seguridad C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\WindowsGame1.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\Game1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\Game1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\Game.ico" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\Game.ico">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\GameThumbnail.png" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\moises\Desktop\WindowsGame1\Backup\WindowsGame1\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsGame1.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsGame1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="WindowsGame1" Source="WindowsGame1\WindowsGame1.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bidon.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="camaro.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Camino.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Camino2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="WindowsGame1Content" Source="WindowsGame1\Content\WindowsGame1Content.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

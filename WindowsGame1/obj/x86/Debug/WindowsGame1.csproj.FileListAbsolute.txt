@@ -1,0 +1,40 @@
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bidon.xnb
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\camaro.xnb
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino.xnb
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino2.xnb
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Duoc\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino2.xnb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bidon.xnb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\camaro.xnb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino.xnb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Usuario\Desktop\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\camaro.xnb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino.xnb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino2.xnb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bidon.xnb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Touche\Desktop\7mo Semestre\XNA\Clase 2\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\camaro.xnb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino.xnb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Camino2.xnb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bidon.xnb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
