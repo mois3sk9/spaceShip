@@ -37,6 +37,15 @@
       <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bidon.xnb</Output>
       <Time>2014-03-14T07:19:45-04:00</Time>
     </Item>
+    <Item>
+      <Source>fondospace.jpg</Source>
+      <Name>fondospace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondospace.xnb</Output>
+      <Time>2014-07-10T17:37:34.9727731-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

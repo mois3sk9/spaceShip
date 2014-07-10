@@ -54,8 +54,8 @@ namespace WindowsGame1
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             // TODO: use this.Content to load your game content here
-            camino[0] = Content.Load<Texture2D>("Camino");
-            camino[1] = Content.Load<Texture2D>("Camino");
+            camino[0] = Content.Load<Texture2D>("fondospace");
+            camino[1] = Content.Load<Texture2D>("fondospace");
             auto = Content.Load<Texture2D>("camaro");
             posCamino[0] = new Vector2(0, 0);
             posCamino[1] = new Vector2(0, -600);
@@ -100,7 +100,7 @@ namespace WindowsGame1
         }
 
         /// <summary>
-        /// This is called when the game should draw itself.
+        
         /// </summary>
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
