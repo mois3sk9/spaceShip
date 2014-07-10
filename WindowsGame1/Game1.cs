@@ -54,13 +54,12 @@ namespace WindowsGame1
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             // TODO: use this.Content to load your game content here
-            camino[0] = Content.Load<Texture2D>("fondospace");
-            camino[1] = Content.Load<Texture2D>("fondospace");
+            camino[0] = Content.Load<Texture2D>("fondou");
+            camino[1] = Content.Load<Texture2D>("fondou");
             auto = Content.Load<Texture2D>("camaro");
             posCamino[0] = new Vector2(0, 0);
             posCamino[1] = new Vector2(0, -600);
            
-
         }
 
         /// <summary>

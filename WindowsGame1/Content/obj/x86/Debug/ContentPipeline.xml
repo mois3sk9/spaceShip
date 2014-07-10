@@ -44,7 +44,16 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondospace.xnb</Output>
-      <Time>2014-07-10T17:37:34.9727731-04:00</Time>
+      <Time>2014-07-10T17:40:56.2452852-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fondou.png</Source>
+      <Name>fondou</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondou.xnb</Output>
+      <Time>2014-07-10T18:00:57.79601-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

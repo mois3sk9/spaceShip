@@ -39,3 +39,4 @@ C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Fr
 C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
 C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
 C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondospace.xnb
+C:\Users\moises\Desktop\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fondou.xnb
